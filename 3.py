@@ -1,4 +1,4 @@
-seq = input("entera la sequencia separat per * : ").split("*")
+seq = input("Entra la seqüència separada per * : ").split("*")
 A = seq[0].count("A")
 B = seq[0].count("B")
 cont = 0
