@@ -56,6 +56,6 @@ for i in range(0,len(distancies)): #recore los (indices) de cada distancia en li
 
 #ya que tenemos el indice maximo solo el unico punto es que el indice siempre epiece de 0 pero la pregunta quiere numero de subseq (empice de 1)
 
-print("sequencia que te mes distancia amb mitjana : ",i_maxim + 1) # aqui un +1 y es acabo eres gilipollas si no lo lees entero 
+print("sequencia que te mes distancia amb mitjana : ",i_maxim + 1) # aqui un +1 y es acabo eres gilipollas si no lo lees entero -->R / Homeeee no m'insultis ho he llegit tot
 
 #gracias por vuestro atencion
